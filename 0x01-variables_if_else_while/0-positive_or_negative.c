@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  *
- * This function generates a random number and checks if its positive, negative, or zero.
+ * generates a random number and checks if its positive, negative, or zero.
  *
  * Return: Always 0 (Success)
  */
