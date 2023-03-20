@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * Main - is the entrance
+ * Main - Entry point
  *
  * prints the string with proper grammar, but the outcome is a piece of art, .
  *
