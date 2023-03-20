@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 /**
  * main - Entry point of the program
  *
- * Description: the program writes a line using the printf function
+ * The program writes a line using the printf function
  * printf: the functions outputs the string on the screen
  *
  * return: always (0) success
