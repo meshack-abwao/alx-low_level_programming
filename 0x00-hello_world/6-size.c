@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * Main - Entry point
+ * main - Entry point
  *
  * prints the size of various types on the computer it is compiled and run on.
  *
- * return: Always (0) success
+ * return: Always 0 (success)
  */
 int main(void)
 /* main - entry point*/
@@ -15,7 +15,6 @@ int main(void)
 	printf("Size of a long int: %ld byte(s) \n", sizeof(long));
 	printf("Size of a long long int: %ld byte(s) \n", sizeof(long long));
 	printf("Size of a float: %ld byte(s) \n", sizeof(float));
-
 	return (0);
-	/*return: always (0) success*/
+	/*return: always 0 (success)*/
 }
