@@ -3,8 +3,6 @@
 /**
  * main - Entry point
  *
- * a program that prints a line using the printf function
- *
  * return: always (0) success
  */
 int main(void)
