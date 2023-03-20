@@ -3,16 +3,16 @@
 /**
  * Main - Entry point
  *
- * prints the string with proper grammar, but the outcome is a piece of art,
+ * prints the size of various types on the computer it is compiled and run on.
  *
- * return: (0) success
+ * return: Always (0) success
  */
 int main(void)
 {
-	printf("the size of char is %ld \n", sizeof(char));
-	printf("the size of int is %ld \n", sizeof(int));
-	printf("the size of long is %ld \n", sizeof(long));
-	printf("the size of long long is %ld \n", sizeof(long long));
-	printf("the size of float is %ld \n", sizeof(float));
+	printf("Size of a char: %ld byte(s) \n", sizeof(char));
+	printf("Size of an int: %ld byte(s) \n", sizeof(int));
+	printf("Size of a long: %ld byte(s) \n", sizeof(long));
+	printf("Size of a long long: %ld byte(s) \n", sizeof(long long));
+	printf("Size of a float: %ld byte(s) \n", sizeof(float));
 	return(0);
 }
