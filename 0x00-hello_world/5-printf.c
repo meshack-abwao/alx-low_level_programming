@@ -2,12 +2,11 @@
 #include <stdlib.h>
 
 /**
- * main - Entry point of the program
+ * main - Entry point
  *
  * The program writes a line using the printf function
- * printf: the functions outputs the string on the screen
  *
- * return: always (0) success
+ * Return: Always (0) success
  */
 
 int main(void)
