@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - prints the string with proper grammar, but the outcome is a piece of art,
+ * main - A program that prints with proper grammar, but the outcome is a piece of art,
  *
  * return: always (0) success
  */
