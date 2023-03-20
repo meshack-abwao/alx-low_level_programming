@@ -3,7 +3,9 @@
 /**
  * main - Entry point
  *
- *A program that prints a line using the printf function
+ * A program that prints a line 
+ *
+ * uses the printf function
  *
  * return: always (0) success
  */
