@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * Main - Entry point
+ * main - Entry point
  *
  * prints the string with proper grammar, but the outcome is a piece of art, .
  *
- * return: (0) success
+ * return: always (0) success
  */
 int main(void)
 	{
