@@ -1,8 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-/**A simple program that prints exactly the said text
+/**
+ * main - Entry point
  *
- * uses the function puts to do so
+ * prints the said string programming is like building a multilingual puzzle
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
