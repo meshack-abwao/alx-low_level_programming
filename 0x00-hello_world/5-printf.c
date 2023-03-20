@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - This is the main function
+ * main - Entry point
+ *
+ * Description: the program writes a line using th eprintf function
  *
  * return: always (0) success
  */
