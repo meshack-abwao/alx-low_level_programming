@@ -7,12 +7,12 @@
  *
  * Return: Always 0 (success)
  */
-int main (void)
+int main(void)
 {
-	char myalpha[26] = "abcdefghijklmnopqrstuvwxyz",
+	char myalpha[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
-	for (i = 0; i<26; i++)
+	for (i = 0; i < 26; i++)
 	{
 		putchar(myalpha[i]);
 	}
