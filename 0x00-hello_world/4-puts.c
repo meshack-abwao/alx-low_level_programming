@@ -3,9 +3,9 @@
 /**A simple program that prints exactly the said text
  *
  * uses the function puts to do so
-*/
-int main()
+ */
+int main(void)
 {
 	puts("Programming is like building a multilingual puzzle");
-	return 0;
+	return (0);
 }
