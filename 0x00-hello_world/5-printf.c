@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - Entry point
+ * main - entry point
  *
  * prints the string with proper grammar, but the outcome is a piece of art, .
  *
