@@ -13,11 +13,11 @@ void jack_bauer(void)
 	{
 		while (m < 60)
 		{
-			_printchar((h / 10) +'0');
-			_printchar((h % 10) + '0');
-			_printchar(:);
-			_printchar((m / 10) + '0');
-			_printchar((m % 10) + '0');
+			_putchar((h / 10) +'0');
+			_putchar((h % 10) + '0');
+			_putchar(:);
+			_putchar((m / 10) + '0');
+			_putchar((m % 10) + '0');
 			m++;
 		}
 		h++;
