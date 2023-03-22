@@ -2,16 +2,18 @@
 
 /**
  * main - Entry point
+ *
  * Prints alphabet in lowercase
+ *
  * Return: Always 0 (success)
 */
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
-	char c;
+	char alfabet;
 	
-	for(c = 'a'; c <= 'z'; c++)
-		_putchar(c);
+	for(alfabet = 'a'; alfabet <= 'z'; alfabet++)
+		_putchar(alfabet);
 	
 	_putchar('\n');
 
