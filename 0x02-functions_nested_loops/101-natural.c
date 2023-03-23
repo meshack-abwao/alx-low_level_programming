@@ -2,8 +2,8 @@
  * File: 101-natural.c
  * Auth: vincent kip
  */
-
 #include <stdio.h>
+#include "main.h"
 
 /**
  * main - Lists all the natural numbers below 1024 (excluded)
